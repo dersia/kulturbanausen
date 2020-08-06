@@ -1,0 +1,27 @@
+baseURL = "https://www.projekt-wsd.de/"
+languageCode = "en"
+theme = "ghazal"
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+
+[params]
+    title = "Projekt - Wir sind Düsseldorf"
+    author = "Sia"
+    description = "Ziel des Projekt - WSD ist es eine Kulturstätte in der Düsseldorfer Altstadt zu etablieren, betreiben und zu erhalten."
+    footer = "2020 projekt wsd."
+    shortAbout = "Ziel des Projekt - WSD ist es eine Kulturstätte in der Düsseldorfer Altstadt zu etablieren, betreiben und zu erhalten."
+    mainimage = "images/logo.svg"
+    profileImage = "https://i.stack.imgur.com/oI2SB.jpg?s=328&g=1"
+
+    [params.theme]
+        fontSize = "16px"
+        dateFormat = "2006/01/02"
+        paginateNum = 5
+
+    [params.social]
+        twitter = "https://twitter.com/ProjektWsd"
+        email= "mailto:info@projekt-wsd.de?subject=Kontakt"
+        instagram = "https://www.instagram.com/projektwsd/"
+        facebook = "https://www.facebook.com/ProjektWSD"
