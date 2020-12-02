@@ -12,7 +12,7 @@ Unser/e Verantwortliche/r (nachfolgend „Verantwortlicher“) i.S.d. Art. 4 Zif
 Siavash Ghassemi<br />
 Schloßstr. 44<br />
 40477 Düsseldorf<br />
-E-Mail-Adresse: webmaster-at-projekt-wsd.de
+E-Mail-Adresse: webmaster-at-kulturbanausen-punkt-nrw
 
 **Datenarten, Zwecke der Verarbeitung und Kategorien betroffener Personen**
 Nachfolgend informieren wir Sie über Art, Umfang und Zweck der Erhebung, Verarbeitung und Nutzung personenbezogener Daten.
@@ -194,7 +194,7 @@ Rechte der betroffenen Person
  Siavash Ghassemi<br />
  Schloßstr. 44<br />
  40477 Düsseldorf<br />
- E-Mail-Adresse: webmaster-at-projekt-wsd.de
+ E-Mail-Adresse: webmaster-at-kulturbanausen-punkt-nrw
 * Recht auf Auskunft
  Sie haben das Recht, von uns eine Bestätigung darüber zu verlangen, ob Sie betreffende personenbezogene Daten verarbeitet werden. Sofern dies der Fall ist, haben Sie ein Recht auf Auskunft über Ihre bei uns gespeicherten persönlichen Daten nach Art. 15 DS-GVO. Dies beinhaltet insbesondere die Auskunft über die Verarbeitungszwecke, die Kategorie der personenbezogenen Daten, die Kategorien von Empfängern, gegenüber denen Ihre Daten offengelegt wurden oder werden, die geplante Speicherdauer, die Herkunft ihrer Daten, sofern diese nicht direkt bei Ihnen erhoben wurden.
 * Recht auf Berichtigung

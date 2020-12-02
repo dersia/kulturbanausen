@@ -1,4 +1,4 @@
-baseURL = "https://www.projekt-wsd.de/"
+baseURL = "https://www.kulturbanausen-duesseldorf.de/"
 languageCode = "en"
 theme = "ghazal"
 
@@ -7,12 +7,12 @@ theme = "ghazal"
   page = ["HTML"]
 
 [params]
-    title = "Projekt - Wir sind Düsseldorf"
+    title = "Kulturbanausen im Ratinger Hof"
     author = "Sia"
-    description = "Ziel des Projekt - WSD ist es eine Kulturstätte in der Düsseldorfer Altstadt zu etablieren, betreiben und zu erhalten."
-    footer = "2020 projekt wsd."
-    shortAbout = "Ziel des Projekt - WSD ist es eine Kulturstätte in der Düsseldorfer Altstadt zu etablieren, betreiben und zu erhalten."
-    mainimage = "images/logo.svg"
+    description = "Ziel der Kulturbanausen ist es eine Kulturstätte in der Düsseldorfer Altstadt zu etablieren, betreiben und zu erhalten."
+    footer = "2020 Kulturbanausen eG iG."
+    shortAbout = "Ziel der Kulturbanausen ist es eine Kulturstätte in der Düsseldorfer Altstadt zu etablieren, betreiben und zu erhalten."
+    mainimage = "images/logo.png"
     profileImage = "https://i.stack.imgur.com/oI2SB.jpg?s=328&g=1"
 
     [params.theme]
@@ -21,7 +21,7 @@ theme = "ghazal"
         paginateNum = 5
 
     [params.social]
-        twitter = "https://twitter.com/ProjektWsd"
-        email= "mailto:info@projekt-wsd.de?subject=Kontakt"
-        instagram = "https://www.instagram.com/projektwsd/"
-        facebook = "https://www.facebook.com/ProjektWSD"
+        twitter = "https://twitter.com/KBanausen"
+        email= "mailto:info@kulturbanausen-duesseldorf.de?subject=Kontakt"
+        instagram = "https://www.instagram.com/kulturbanausennrw/"
+        facebook = "https://www.facebook.com/KulturbanausenNRW"

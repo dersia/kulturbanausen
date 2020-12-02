@@ -6,7 +6,7 @@ date: 2020-04-10T10:55:01+02:00
 Siavash Ghassemi\
 Schloßstr. 44\
 40477 Düsseldorf\
-E-Mail: webmaster-at-projekt-wsd.de\
+E-Mail: webmaster-at-kulturbanausen-punkt-nrw\
 Wenn Sie mich Kontaktieren wollen, bitte ersetzen Sie -at- durch ein @ zeichen. 
 
 § 1 Warnhinweis zu Inhalten
