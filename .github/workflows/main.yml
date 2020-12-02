@@ -22,6 +22,8 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Setup Hugo
+      env: 
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: true
       uses:  peaceiris/actions-hugo@v2.4.9
 
     # Runs a set of commands using the runners shell
