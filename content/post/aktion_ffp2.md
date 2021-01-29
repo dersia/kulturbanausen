@@ -1,6 +1,6 @@
 ---
 title: "Aktion FFP2 Masken"
-date: 2018-05-23
+date: 2020-01-30
 tags: ["FFP2", "Maske", "Aktion"]
 categories: ["aktion"]
 description: "Die Aktion FFP2 Masken"
